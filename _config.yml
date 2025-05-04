@@ -3,8 +3,9 @@ logo:        "/images/avatar.png?raw=true"
 description: >
   Hey! 안녕!<br><br>
   Check out my <a href="/publications.html">Research</a><br>
-  Find me on <a href="https://www.linkedin.com/in/jin-ho-yun-3525a9160/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>
-
+  <a href="https://www.linkedin.com/in/jin-ho-yun-3525a9160/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>
+  <a href="https://x.com/JinNeuro/" target="_blank" rel="noopener noreferrer">Twitter</a><br>
+  
 theme:               jekyll-theme-minimal
 repository:          drjyun/drjyun.github.io
 google-analytics:    "G-V1QVKG4ENS"
@@ -16,6 +17,9 @@ navigation:
     url:     /publications.html
   - title: "LinkedIn"
     url:     https://www.linkedin.com/in/jin-ho-yun-3525a9160/
+    external: true
+  - title: "Twitter"
+    url:     https://x.com/JinNeuro/
     external: true
   # - title: "GitHub"
   #   url:     https://github.com/drjyun
