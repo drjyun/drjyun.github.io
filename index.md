@@ -1,3 +1,4 @@
+![header](https://github.com/user-attachments/assets/ea0918f5-8424-4d1c-a508-9a5c8cfa7a29)
 
 I am a convex combination of a psychologist and data scientist. I am currently a postdoctoral research fellow at the Wharton School at the University of Pennsylvania. In August 2025, I will join New Mexico State University as an Assistant Professor of Marketing.
 
