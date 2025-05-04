@@ -18,6 +18,6 @@ navigation:
   - title: "LinkedIn"
     url:     https://www.linkedin.com/in/jin-ho-yun-3525a9160/
     external: true
-  - title: "GitHub"
-    url:     https://github.com/drjyun
-    external: true
+  # - title: "GitHub"
+  #   url:     https://github.com/drjyun
+  #   external: true
