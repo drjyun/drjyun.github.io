@@ -23,4 +23,4 @@ filename: publications.md
 
 ## Find me on Google Scholar
 
-For the very latest, see my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener noreferrer"}.
+For all publication lists, see my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener noreferrer"}.
