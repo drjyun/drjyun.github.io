@@ -1,0 +1,21 @@
+{% raw %}<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- ── YOUR CUSTOM SEO TAGS ─────────────────── -->
+  <title>Jin Ho Yun | Postdoc at Wharton & Assistant Professor of Marketing</title>
+  <meta name="description"
+        content="Dr. Jin Ho Yun is a postdoctoral researcher at Wharton Neuroscience Initiative and incoming Assistant Professor of Marketing at NMSU.">
+  <!-- ──────────────────────────────────────────── -->
+
+  {%- if site.google-analytics -%}
+    <!-- existing Google Analytics snippet -->
+  {%- endif -%}
+
+  <!-- then the rest of the default minimal head… -->
+  {{- include minimal/head.html -}}
+</head>
+<body>
+{% endraw %}
