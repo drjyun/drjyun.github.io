@@ -2,8 +2,9 @@ title:   Dr. Jin Ho Yun
 logo: "/images/avatar.png?raw=true" # your photo (or logo) here
 description: >
   Hey! 안녕!<br><br>
-  <a href="publications.html">Publications</a><br>
-  <a href="https://www.linkedin.com/in/jin-ho-yun-3525a9160/">LinkedIn</a><br>
-theme:   jekyll-theme-minimal
-google-analytics: "G-V1QVKG4ENS"
 
+  <a href="publications.html">Publications</a><br>
+  <a href="https://www.linkedin.com/in/jin-ho-yun-3525a9160/"
+     target="_blank" rel="noopener noreferrer">
+    LinkedIn
+  </a><br>
