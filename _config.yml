@@ -1,22 +1,11 @@
-title: Dr. Jin Ho Yun # your name (or website title) here
+title:   Dr. Jin Ho Yun
 logo: "/images/avatar.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  
-  Hey!<br>
-
-  ____<br><br>
-
-  <a href="/files/CV.pdf">CV</a>
-  <br>
-  
-  <a href="publications.html">Publications</a>
-  <br>
-
-  <a href="https://www.linkedin.com/in/jin-ho-yun-3525a9160/">LinkedIn</a>
-  <br>
-
-  ____
-
-theme: jekyll-theme-minimal
+description: >
+  Hey! 안녕!<br><br>
+  <a href="publications.html">Publications</a><br>
+  <a href="https://www.linkedin.com/in/jin-ho-yun-3525a9160/">LinkedIn</a><br>
+theme:   jekyll-theme-minimal
 google-analytics: "G-V1QVKG4ENS"
+
+# ← Add this:
+header_image: "/images/header.jpg"
