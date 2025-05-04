@@ -7,5 +7,3 @@ description: >
 theme:   jekyll-theme-minimal
 google-analytics: "G-V1QVKG4ENS"
 
-# ← Add this:
-header_image: "/images/header.jpg"
