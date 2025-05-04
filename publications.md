@@ -6,28 +6,21 @@ filename: publications.md
 # Working Papers
 
 ## Artificial Intelligence Marketing & Advertising
-“Quantifying TV Context-Advertising Congruence” with Michael Platt: under review at Marketing Science: Frontiers, [SSRN].
-
-“TV Beats Digitals: Leveraging Deep Learning to Evaluate Commercial Success” with Robert Meyer, Elizabeth Beard, Xiangyu Jiang, and Michael Platt: In preparation for Journal of Marketing Research.
-
+- “Quantifying TV Context‑Advertising Congruence” with Michael Platt: under review at Marketing Science: Frontiers, [SSRN].
+- “TV Beats Digitals: Leveraging Deep Learning to Evaluate Commercial Success” with Robert Meyer, Elizabeth Beard, Xiangyu Jiang, and Michael Platt: In preparation for Journal of Marketing Research.
 
 ## Consumer Neuroscience & Branding
-“Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: Invited for 2nd round review at Journal of Marketing Research.
+- “Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: Invited for 2nd round review at Journal of Marketing Research.
+- “Neural Pattern Similarity Predicts Market Responsiveness” with Michael Platt: In preparation for Journal of the Association for Consumer Research.
 
-“Neural Pattern Similarity Predicts Market Responsiveness” with Michael Platt: In preparation for Journal of the Association for Consumer Research.
+## Consumer Behavior, New Technology, & Decision‑Making
+- “The Impact of Repeated Financial Misinformation on Investments” with Jake An and Michael Platt: under review at Journal of Consumer Psychology, [SSRN].
+- “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: under review at PNAS Nexus, [SSRN].
+- “The Effects of Social Responsiveness in Human‑Computer Trading Environments” with Sohvi Heaton, Annamarie Huttunen, and Michael Platt: In preparation for Information Systems Research, [SSRN].
+- “Brain Signals from New Ventures Predict Fundraising Success” with Sohvi Heaton, Peter Klein, and Michael Platt: In preparation for Information Systems Research, [SSRN].	
 
+---
 
-## Consumer Behavior, New Technology, & Decision-Making
-“The Impact of Repeated Financial Misinformation on Investments” with Jake An, and Michael Platt: under review at Journal of Consumer Psychology, [SSRN].
+## Find me on Google Scholar
 
-“Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: under review at PNAS Nexus, [SSRN].
-
-“The Effects of Social Responsiveness in Human-Computer Trading Environments” with Sohvi Heaton, Annamarie Huttunen, and Michael Platt: In preparation for Information Systems Research, [SSRN].
-
-“Brain Signals from New Ventures Predict Fundraising Success” with Sohvi Heaton, Peter Klein, and Michael Platt: In preparation for Information Systems Research, [SSRN].	
-
-
-___
-
-
-Please see also my [Google Scholar](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate) page.
+For the very latest updates, see my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener noreferrer"}.
