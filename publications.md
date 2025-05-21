@@ -11,7 +11,7 @@ filename: publications.md
 
 ## Branding 
 - “Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: Invited for 2nd round review at *Journal of Marketing Research*.
-- “Neural Pattern Similarity, Brand Recall, and Market Responsiveness” with Michael Platt: In preparation for *Journal of the Association for Consumer Research*.
+- “Neural Pattern Similarity, Brand Recall, and Market Performance” with Michael Platt: In preparation for *Journal of the Association for Consumer Research*.
 - “Meta-Scientific Research in Marketing: Brand Price Elasticity”, with around 200 authors: In preparation for *International Journal of Research in Marketing*.
 
 ## New Technology, & Financial Decision‑Making
