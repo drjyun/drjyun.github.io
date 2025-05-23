@@ -15,8 +15,8 @@ filename: publications.md
 - “Meta-Scientific Research in Marketing: Brand Price Elasticity”, with around 200 authors: In preparation for *International Journal of Research in Marketing*.
 
 ## New Technology, & Financial Decision‑Making
+- “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: invited major revision at *PNAS Nexus*, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
 - “The Impact of Repeated Financial Misinformation on Investments” with Jake An and Michael Platt: under review at *Journal of Consumer Psychology*, [SSRN](https://ssrn.com/abstract=5187289){:target="_blank" rel="noopener noreferrer"}
-- “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: under review at *PNAS Nexus*, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
 - “The Effects of Social Responsiveness in Human‑Computer Trading Environments” with Sohvi Heaton, Annamarie Huttunen, and Michael Platt: under review at *Information Systems Research*, [SSRN](https://ssrn.com/abstract=5172901){:target="_blank" rel="noopener noreferrer"}
 - “Brain Signals from New Ventures Predict Fundraising Success” with Sohvi Heaton, Peter Klein, and Michael Platt: In preparation for *Information Systems Research*, [SSRN](https://ssrn.com/abstract=4979247){:target="_blank" rel="noopener noreferrer"}
 
