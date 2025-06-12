@@ -5,14 +5,14 @@ filename: publications.md
 
 # Working Papers
 
-## Advertising 
-- “Quantifying TV Context‑Advertising Congruence” with Michael Platt: under review at *Marketing Science: Frontiers*, [SSRN](https://ssrn.com/abstract=5221339){:target="_blank" rel="noopener noreferrer"}
-- “TV Beats Digitals: Leveraging Deep Learning to Evaluate Commercial Success” with Robert Meyer, Elizabeth Beard, Xiangyu Jiang, and Michael Platt: In preparation for *Journal of Marketing Research*.
-
 ## Branding 
 - “Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: Invited for 2nd round review at *Journal of Marketing Research*.
-- “Why Brands Come to Mind: A Neural and Behavioral Account of Market Success” with Michael Platt: In preparation for *International Journal of Research in Marketing*.
+- “Why Brands Come to Mind: A Neural and Behavioral Account of Market Success” with Michael Platt: under review at *International Journal of Research in Marketing*.
 - “Meta-Scientific Research in Marketing: Brand Price Elasticity”, with around 200 authors: In preparation for *International Journal of Research in Marketing*.
+  
+## Advertising 
+- “TV Beats Digitals: Leveraging Deep Learning to Evaluate Commercial Success” with Robert Meyer, Elizabeth Beard, Xiangyu Jiang, and Michael Platt: In preparation for *Journal of Marketing Research*.
+- “Quantifying TV Context‑Advertising Congruence” with Michael Platt: In preparation for *Management Science*, [SSRN](https://ssrn.com/abstract=5221339){:target="_blank" rel="noopener noreferrer"}
 
 ## New Technology, & Financial Decision‑Making
 - “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: invited major revision at *PNAS Nexus*, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
