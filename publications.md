@@ -7,7 +7,7 @@ filename: publications.md
 
 ## Branding 
 - “Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: Invited for 2nd round review at *Journal of Marketing Research*.
-- “Why Brands Come to Mind: A Neural and Behavioral Account of Market Success” with Michael Platt: under review at *International Journal of Research in Marketing*, [SSRN](https://ssrn.com/abstract=5284379)
+- “Why Brands Come to Mind: A Neural and Behavioral Account of Market Success” with Michael Platt: under review at <em>International Journal of Research in Marketing</em>, <a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener noreferrer">SSRN</a>
 - “Meta-Scientific Research in Marketing: Brand Price Elasticity”, with around 200 authors: In preparation for *International Journal of Research in Marketing*.
   
 ## Advertising 
