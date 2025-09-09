@@ -18,8 +18,8 @@ navigation:
   - title: "LinkedIn"
     url:     https://www.linkedin.com/in/jin-ho-yun-3525a9160/
     external: true
-  - title: "Twitter"
-    url:     https://x.com/JinNeuro/
+  - title: "SSRN"
+    url:     https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4493021/
     external: true
   # - title: "GitHub"
   #   url:     https://github.com/drjyun
