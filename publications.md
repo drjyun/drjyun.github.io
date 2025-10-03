@@ -6,7 +6,7 @@ filename: publications.md
 ## Google Scholar
 
 For all publication lists, see my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener noreferrer"}.
----
+
 
 ## Papers
 - “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: forthcoming at *PNAS Nexus*, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
