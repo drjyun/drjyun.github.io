@@ -3,6 +3,12 @@ title: Research
 filename: publications.md
 ---
 
+## Google Scholar
+
+For all publication lists, see my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener noreferrer"}.
+---
+
+## Papers
 - “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: forthcoming at *PNAS Nexus*, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
 - “Neural Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: under 2nd round review at *Journal of Marketing Research*.
 - “Quantifying TV Context‑Advertising Congruence” with Michael Platt: invited risky revision at *Journal of Marketing Research*, [SSRN](https://ssrn.com/abstract=5221339){:target="_blank" rel="noopener noreferrer"}
@@ -13,7 +19,3 @@ filename: publications.md
 - “Meta-Scientific Research in Marketing: Brand Price Elasticity”, with around 200 authors: in preparation for *International Journal of Research in Marketing*.
 
 ---
-
-## Find me on Google Scholar
-
-For all publication lists, see my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener noreferrer"}.
