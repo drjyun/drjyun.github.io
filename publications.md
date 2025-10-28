@@ -9,7 +9,7 @@ For all publication lists, see my [Google Scholar profile](https://scholar.googl
 
 
 ## Papers
-- “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: forthcoming at **PNAS Nexus**, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
+- “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad: forthcoming at **[PNAS Nexus](https://doi.org/10.1093/pnasnexus/pgaf316){:target="_blank" rel="noopener noreferrer"}**, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
 - “Neural Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: under 2nd round review at **Journal of Marketing Research**.
 - “Quantifying TV Context‑Advertising Congruence” with Michael Platt: invited risky revision at **Journal of Marketing Research**, [SSRN](https://ssrn.com/abstract=5221339){:target="_blank" rel="noopener noreferrer"}
 - “Leveraging AI to Evaluate Commercial Success: Application to TV vs. Digital Ads” with Robert Meyer, Xiangyu Jiang, and Michael Platt: under review at **Journal of Marketing Research**, [SSRN](https://ssrn.com/abstract=5464434){:target="_blank" rel="noopener noreferrer"}
