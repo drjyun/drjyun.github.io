@@ -3,7 +3,7 @@ logo:        "/images/avatar.png?raw=true"
 description: >
   Thanks for visiting my website!<br><br>
   Check out my <a href="/publications.html">Research</a><br>
-  <a href="/files/Yun_CV.pdf" target="_blank" rel="noopener noreferrer">CV (PDF)</a><br>
+  <a href="/files/CV_JHY.pdf" target="_blank" rel="noopener noreferrer">CV (PDF)</a><br>
   <a href="https://www.linkedin.com/in/jin-ho-yun-3525a9160/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br>
   <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4493021" target="_blank" rel="noopener noreferrer">SSRN</a><br>
   
@@ -17,7 +17,7 @@ navigation:
   - title: "Research"
     url:     /publications.html
   - title: "CV"
-    url:     /files/CV_JHY.pdf
+    url: /files/CV_JHY.pdf
     external: true
   - title: "LinkedIn"
     url:     https://www.linkedin.com/in/jin-ho-yun-3525a9160/
