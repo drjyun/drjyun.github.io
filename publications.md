@@ -10,7 +10,7 @@ For all publication lists, see my [Google Scholar profile](https://scholar.googl
 
 ## Recent Publicatons
 - “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” with Shiri Melumad (2025): at **[<span style="color:black">PNAS Nexus</span>](https://doi.org/10.1093/pnasnexus/pgaf316){:target="_blank" rel="noopener noreferrer"}**, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
-- “Predicting Entrepreneur Fundraising Success from Focus Group EEG Data” with Sohvi Heaton, Sharon Wong, Peter Klein, and Michael Platt: forthcoming at **PloS One**, [SSRN](https://ssrn.com/abstract=4979247){:target="_blank" rel="noopener noreferrer"}
+- “Predicting Entrepreneur Fundraising Success from Focus Group EEG Data” with Sohvi Heaton, Sharon Wong, Peter Klein, and Michael Platt: forthcoming at **PLoS One**, [SSRN](https://ssrn.com/abstract=4979247){:target="_blank" rel="noopener noreferrer"}
 
 ## Revisions & Working Papers
 - “Neural Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: invited 3rd round review at **Journal of Marketing Research**.
