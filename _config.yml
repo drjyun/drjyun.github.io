@@ -16,9 +16,6 @@ navigation:
     url:     /
   - title: "Research"
     url:     /publications.html
-  - title: "CV"
-    url: /files/CV_JHY.pdf
-    external: true
   - title: "LinkedIn"
     url:     https://www.linkedin.com/in/jin-ho-yun-3525a9160/
     external: true
