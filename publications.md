@@ -17,9 +17,9 @@ For all publication lists, see my [Google Scholar profile](https://scholar.googl
 - “Neural Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: invited 3rd round review at **Journal of Marketing Research**.
 - “Quantifying TV Context‑Advertising Congruence” with Xiangyu Jiang and Michael Platt: invited 2nd round review at **Journal of Marketing Research**, [SSRN](https://ssrn.com/abstract=5221339){:target="_blank" rel="noopener noreferrer"}
 - “A Behavioral and Neural Account of Brand Success: A Replication and Extension” with Michael Platt: invited 2nd round review at **Journal of the Association for Consumer Research**, <a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener noreferrer">SSRN</a>
-- “Interpretable Visual Complexity and Neural Transfer Functions for Understanding Consumer Value” with Sohvi Heaton, Dino Levy, and Michael Platt: submitted to **Journal of the Association for Consumer Research**.
 - “Leveraging AI to Evaluate Commercial Success: Application to TV vs. Digital Ads” with Robert Meyer, Xiangyu Jiang, and Michael Platt: in prep for **Marketing Science**, [SSRN](https://ssrn.com/abstract=5464434){:target="_blank" rel="noopener noreferrer"}
 - “Buying into Social Trading: The Effects of Social Contagion on Financial Decision-Making” with Sohvi Heaton, Annamarie Huttunen, and Michael Platt: in prep for **Judgment and Decision Making**.
+- “Interpretable Visual Complexity and Neural Transfer Functions for Understanding Consumer Value” with Sohvi Heaton, Dino Levy, and Michael Platt: Working Paper.
 - “Meta-Scientific Research in Marketing: Brand Price Elasticity”, with around 200 authors: in preparation for **International Journal of Research in Marketing**.
 
 ---
