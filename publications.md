@@ -14,7 +14,7 @@ For all publication lists, see my [Google Scholar profile](https://scholar.googl
 - "ERP Study of Liberals’ and Conservatives’ Moral Reasoning Processes: Evidence from South Korea" (2022) with Yaeri Kim, and Eun-Ju Lee: **[<span style="color:black">Journal of Business Ethics</span>](https://doi.org/10.1007/s10551-021-04734-2){:target="_blank" rel="noopener noreferrer"}**.
 
 ## Revisions & Working Papers
-- “Neural Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: under 3rd round review at **Journal of Marketing Research**.
+- “Neural Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: invited for 4th round review at **Journal of Marketing Research**.
 - “Quantifying TV Context‑Advertising Congruence” with Xiangyu Jiang and Michael Platt: under 2nd round review at **Journal of Marketing Research**, [SSRN](https://ssrn.com/abstract=5221339){:target="_blank" rel="noopener noreferrer"}
 - “A Behavioral and Neural Account of Brand Success: A Replication and Extension” with Michael Platt: invited for 2nd round review at **Journal of the Association for Consumer Research**, <a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener noreferrer">SSRN</a>
 - “Buying into Social Trading: The Effects of Social Contagion on Financial Decision-Making” with Annamarie Huttunen and Michael Platt: submitted to **Journal of Economic Behavior and Organization**.
