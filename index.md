@@ -13,6 +13,7 @@ description: "Jin Ho Yun — marketing professor and researcher studying consume
       <p class="hero-lede">I study how consumers interpret brands, advertising, and emerging technologies — using experiments, artificial intelligence, and neuroscience.</p>
       <div class="hero-actions">
         <a class="btn btn-primary" href="{{ '/research/' | relative_url }}">Explore research&nbsp; →</a>
+        <a class="btn btn-ghost" href="mailto:dryun@nmsu.edu">dryun@nmsu.edu&nbsp; ↗</a>
       </div>
     </div>
 
