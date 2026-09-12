@@ -33,7 +33,7 @@ description: "Teaching by Jin Ho Yun at New Mexico State University."
       <article class="course-card" data-number="02">
         <span class="course-code">MKTG 310</span>
         <h3>Marketing Research</h3>
-        <p>How to turn a business question into a researchable problem, gather useful evidence, analyze it carefully, and communicate insights that support action.</p>
+        <p>How to turn a business question into a researchable problem, gather and analyze evidence, and communicate actionable insights — including hands-on use of LLM-based synthetic data to simulate consumer and market data.</p>
       </article>
     </div>
   </div>

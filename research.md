@@ -12,8 +12,8 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
     <h1>Behavior first. Methods without borders.</h1>
     <p>I study consumer behavior and marketing using experiments, AI and machine learning, neuroimaging, NLP, econometrics, and computational modeling.</p>
     <div class="link-row mini-links">
-      <a class="social-link" href="https://scholar.google.com/citations?hl=en&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener">Full list on Google Scholar ↗</a>
-      <a class="social-link" href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4493021" target="_blank" rel="noopener">SSRN ↗</a>
+      <a class="social-link" href="https://scholar.google.com/citations?hl=en&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Full list on Google Scholar ↗</span></a>
+      <a class="social-link" href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4493021" target="_blank" rel="noopener"><i class="ai ai-ssrn" aria-hidden="true"></i><span>SSRN ↗</span></a>
     </div>
   </div>
 </section>
@@ -21,10 +21,20 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
 <section class="section">
   <div class="shell group-heading reveal">
     <div>
-      <h2>Published</h2>
-      <p>Selected peer-reviewed work.</p>
+      <h2>Recent publications</h2>
+      <p>Published and conditionally accepted work.</p>
     </div>
     <div class="group-content research-list">
+      <article class="research-item">
+        <div class="research-year">2026</div>
+        <div>
+          <h3 class="research-title">A Behavioral and Neural Account of Brand Choice</h3>
+          <div class="research-meta">with Michael Platt · Journal of the Association for Consumer Research</div>
+          <div class="paper-links"><a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener">SSRN ↗</a></div>
+        </div>
+        <span class="status accepted">Conditionally accepted</span>
+      </article>
+
       <article class="research-item">
         <div class="research-year">2026</div>
         <div>
@@ -61,7 +71,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
 <section class="section section-soft">
   <div class="shell group-heading reveal">
     <div>
-      <h2>Revisions & working papers</h2>
+      <h2>Revisions &amp; working papers</h2>
       <p>Current projects and manuscripts.</p>
     </div>
     <div class="group-content research-list">
@@ -78,15 +88,9 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
       </article>
 
       <article class="research-item">
-        <div class="research-year">JACR</div>
-        <div><h3 class="research-title">A Behavioral and Neural Account of Brand Choice</h3><div class="research-meta">with Michael Platt · under 2nd round review at Journal of the Association for Consumer Research</div><div class="paper-links"><a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener">SSRN ↗</a></div></div>
-        <span class="status">Under review</span>
-      </article>
-
-      <article class="research-item">
         <div class="research-year">IJRM</div>
-        <div><h3 class="research-title">How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights from a Many-Analyst Study</h3><div class="research-meta">with approximately 200 coauthors · in preparation for International Journal of Research in Marketing</div><div class="paper-links"><a href="https://osf.io/preprints/psyarxiv/fs3k2_v2" target="_blank" rel="noopener">OSF ↗</a></div></div>
-        <span class="status">In preparation</span>
+        <div><h3 class="research-title">How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights from a Many-Analyst Study</h3><div class="research-meta">with approximately 200 coauthors · working paper</div><div class="paper-links"><a href="https://osf.io/preprints/psyarxiv/fs3k2_v2" target="_blank" rel="noopener">OSF ↗</a></div></div>
+        <span class="status">Working paper</span>
       </article>
 
       <article class="research-item">
