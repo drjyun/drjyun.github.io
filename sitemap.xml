@@ -1,13 +1,9 @@
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://drjyun.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://drjyun.github.io/publications.html</loc>
-  </url>
-  <url>
-    <loc>https://drjyun.github.io/contact.html</loc>
-  </url>
-  <!-- add any other top‑level pages here, one <url> per page -->
+  <url><loc>{{ '/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/research/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/teaching/' | absolute_url }}</loc></url>
 </urlset>

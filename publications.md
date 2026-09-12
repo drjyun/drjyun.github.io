@@ -1,25 +1,16 @@
 ---
-title: Research
-filename: publications.md
+layout: null
+permalink: /publications.html
 ---
-
-## Google Scholar
-
-For all publication lists, see my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=x0S_vSgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank" rel="noopener noreferrer"}.
-
-
-## Recent Publicatons
-- “Predicting Entrepreneur Fundraising Success from Focus Group EEG Data” (2026) with Sohvi Heaton, Sharon Wong, Peter Klein, and Michael Platt: **[<span style="color:black">PLoS One</span>](https://doi.org/10.1371/journal.pone.0340606){:target="_blank" rel="noopener noreferrer"}**, [SSRN](https://ssrn.com/abstract=4979247){:target="_blank" rel="noopener noreferrer"}
-- “Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning” (2025) with Shiri Melumad: at **[<span style="color:black">PNAS Nexus</span>](https://doi.org/10.1093/pnasnexus/pgaf316){:target="_blank" rel="noopener noreferrer"}**, [SSRN](https://ssrn.com/abstract=5104064){:target="_blank" rel="noopener noreferrer"}
-- "ERP Study of Liberals’ and Conservatives’ Moral Reasoning Processes: Evidence from South Korea" (2022) with Yaeri Kim, and Eun-Ju Lee: **[<span style="color:black">Journal of Business Ethics</span>](https://doi.org/10.1007/s10551-021-04734-2){:target="_blank" rel="noopener noreferrer"}**.
-
-## Revisions & Working Papers
-- “Neural Brand Homophily” with Shiri Melumad, Feng Sheng, and Michael Platt: invited for 4th round review at **Journal of Marketing Research**.
-- “Quantifying TV Context‑Advertising Congruence” with Xiangyu Jiang and Michael Platt: invited for 3d round review at **Journal of Marketing Research**, [SSRN](https://ssrn.com/abstract=5221339){:target="_blank" rel="noopener noreferrer"}
-- “A Behavioral and Neural Account of Brand Choice” with Michael Platt: under 2nd round review at **Journal of the Association for Consumer Research**, <a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener noreferrer">SSRN</a>
-- “How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates:Insights from A Many-Analyst Study”, with around 200 authors: in preparation for **International Journal of Research in Marketing**, [OSF](https://osf.io/preprints/psyarxiv/fs3k2_v2){:target="_blank" rel="noopener noreferrer"}
-- “Buying into Social Trading: The Effects of Social Contagion on Financial Decision-Making” with Annamarie Huttunen and Michael Platt: working paper, <a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener noreferrer">SSRN</a>
-- “Leveraging AI to Evaluate Commercial Success: Application to TV vs. Digital Ads” with Robert Meyer, Xiangyu Jiang, and Michael Platt: Working Paper, [SSRN](https://ssrn.com/abstract=5464434){:target="_blank" rel="noopener noreferrer"}
-- “Interpretable Visual Complexity and Neural Transfer Functions for Understanding Consumer Value” with Sohvi Heaton, Dino Levy, and Michael Platt: Working Paper.
-
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url={{ '/research/' | relative_url }}">
+  <link rel="canonical" href="{{ '/research/' | absolute_url }}">
+  <title>Research · Jin Ho Yun</title>
+</head>
+<body>
+  <p>Research has moved to <a href="{{ '/research/' | relative_url }}">this page</a>.</p>
+</body>
+</html>
