@@ -27,8 +27,104 @@
   color: var(--blue);
 }
 
-.footer-links a {
+.footer-name {
+  font-size: 31px;
+}
+
+.site-footer p,
+.footer-contact {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.footer-links a,
+.footer-contact a {
+  font-size: 16px;
+}
+
+.footer-links i {
+  font-size: 17px;
+}
+
+.feedback-block {
+  margin-top: 64px;
+  padding-top: 42px;
+  border-top: 1px solid var(--line);
+}
+
+.feedback-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 28px;
+  margin-bottom: 24px;
+}
+
+.feedback-head .section-kicker {
+  margin-bottom: 9px;
+}
+
+.feedback-head h3 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 1.05;
+}
+
+.feedback-meta {
+  margin: 0 0 5px;
+  color: var(--muted);
   font-size: 14px;
+}
+
+.feedback-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 22px;
+}
+
+.feedback-card {
+  position: relative;
+  min-height: 260px;
+  margin: 0;
+  padding: 34px;
+  overflow: hidden;
+  background: rgba(255,255,255,.48);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+}
+
+.feedback-card::before {
+  content: "“";
+  position: absolute;
+  top: -26px;
+  right: 18px;
+  font-family: var(--serif);
+  font-size: 150px;
+  line-height: 1;
+  color: rgba(49,87,226,.08);
+}
+
+.feedback-card blockquote {
+  position: relative;
+  z-index: 1;
+  margin: 0 0 34px;
+  font-family: var(--serif);
+  font-size: 24px;
+  line-height: 1.28;
+  color: var(--ink);
+}
+
+.feedback-card figcaption {
+  position: absolute;
+  left: 34px;
+  bottom: 30px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
 }
 
 @media (max-width: 680px) {
@@ -38,5 +134,34 @@
 
   .research-meta {
     font-size: 15px;
+  }
+
+  .footer-name {
+    font-size: 28px;
+  }
+
+  .site-footer p,
+  .footer-contact,
+  .footer-links a,
+  .footer-contact a {
+    font-size: 15px;
+  }
+
+  .feedback-head {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .feedback-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .feedback-card {
+    min-height: 245px;
+  }
+
+  .feedback-card blockquote {
+    font-size: 22px;
   }
 }
