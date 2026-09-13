@@ -1,0 +1,42 @@
+/* Small refinements layered over the main visual system. */
+
+.social-link {
+  font-size: 15px;
+  padding: 11px 16px;
+}
+
+.social-link i {
+  width: 19px;
+  font-size: 19px;
+}
+
+.research-meta {
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.paper-links a {
+  font-size: 14px;
+}
+
+.paper-links a.media-link {
+  color: #52627d;
+}
+
+.paper-links a.media-link:hover {
+  color: var(--blue);
+}
+
+.footer-links a {
+  font-size: 14px;
+}
+
+@media (max-width: 680px) {
+  .social-link {
+    font-size: 14px;
+  }
+
+  .research-meta {
+    font-size: 15px;
+  }
+}

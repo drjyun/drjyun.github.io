@@ -50,7 +50,12 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div>
           <h3 class="research-title">Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning</h3>
           <div class="research-meta">with Shiri Melumad · PNAS Nexus</div>
-          <div class="paper-links"><a href="https://doi.org/10.1093/pnasnexus/pgaf316" target="_blank" rel="noopener">DOI ↗</a><a href="https://ssrn.com/abstract=5104064" target="_blank" rel="noopener">SSRN ↗</a></div>
+          <div class="paper-links">
+            <a href="https://doi.org/10.1093/pnasnexus/pgaf316" target="_blank" rel="noopener">DOI ↗</a>
+            <a href="https://ssrn.com/abstract=5104064" target="_blank" rel="noopener">SSRN ↗</a>
+            <a class="media-link" href="https://www.wsj.com/tech/ai/ai-learning-research-understanding-05fe0fde?st=omwMpk&reflink=desktopwebshare_permalink" target="_blank" rel="noopener">WSJ coverage ↗</a>
+            <a class="media-link" href="https://theconversation.com/learning-with-ai-falls-short-compared-to-old-fashioned-web-search-269760" target="_blank" rel="noopener">The Conversation ↗</a>
+          </div>
         </div>
         <span class="status published">Published</span>
       </article>
@@ -77,7 +82,14 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
     <div class="group-content research-list">
       <article class="research-item">
         <div class="research-year">JMR</div>
-        <div><h3 class="research-title">Neural Brand Homophily</h3><div class="research-meta">with Shiri Melumad, Feng Sheng, and Michael Platt · invited for 4th round review at Journal of Marketing Research</div></div>
+        <div>
+          <h3 class="research-title">Neural Brand Homophily</h3>
+          <div class="research-meta">with Shiri Melumad, Feng Sheng, and Michael Platt · invited for 4th round review at Journal of Marketing Research</div>
+          <div class="paper-links">
+            <a class="media-link" href="https://www.theatlantic.com/culture/archive/2025/07/grocery-store-fans/683490/?gift=ns1O5T3se_p9XWOp5KNkzWOwUwspdVeZXUpnvebirWk&utm_source=copy-link&utm_medium=social&utm_campaign=share" target="_blank" rel="noopener">The Atlantic coverage ↗</a>
+            <a class="media-link" href="https://www.youtube.com/watch?v=4eIDBV4Mpek&ab_channel=BigThink" target="_blank" rel="noopener">Big Think ↗</a>
+          </div>
+        </div>
         <span class="status">Revision</span>
       </article>
 
