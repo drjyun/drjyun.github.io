@@ -29,7 +29,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div class="research-year">2026</div>
         <div>
           <h3 class="research-title">A Behavioral and Neural Account of Brand Choice</h3>
-          <div class="research-meta">with Michael Platt · Journal of the Association for Consumer Research</div>
+          <div class="research-meta">with Michael Platt · <span class="journal-name">Journal of the Association for Consumer Research</span></div>
           <div class="paper-links"><a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener">SSRN ↗</a></div>
         </div>
         <span class="status accepted">Conditionally accepted</span>
@@ -39,7 +39,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div class="research-year">2026</div>
         <div>
           <h3 class="research-title">Predicting Entrepreneur Fundraising Success from Focus Group EEG Data</h3>
-          <div class="research-meta">with Sohvi Heaton, Sharon Wong, Peter Klein, and Michael Platt · PLOS ONE</div>
+          <div class="research-meta">with Sohvi Heaton, Sharon Wong, Peter Klein, and Michael Platt · <span class="journal-name">PLOS ONE</span></div>
           <div class="paper-links"><a href="https://doi.org/10.1371/journal.pone.0340606" target="_blank" rel="noopener">DOI ↗</a><a href="https://ssrn.com/abstract=4979247" target="_blank" rel="noopener">SSRN ↗</a></div>
         </div>
         <span class="status published">Published</span>
@@ -49,7 +49,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div class="research-year">2025</div>
         <div>
           <h3 class="research-title">Experimental Evidence of the Effects of Large Language Models versus Web Search on Depth of Learning</h3>
-          <div class="research-meta">with Shiri Melumad · PNAS Nexus</div>
+          <div class="research-meta">with Shiri Melumad · <span class="journal-name">PNAS Nexus</span></div>
           <div class="paper-links">
             <a href="https://doi.org/10.1093/pnasnexus/pgaf316" target="_blank" rel="noopener">DOI ↗</a>
             <a href="https://ssrn.com/abstract=5104064" target="_blank" rel="noopener">SSRN ↗</a>
@@ -64,7 +64,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div class="research-year">2022</div>
         <div>
           <h3 class="research-title">ERP Study of Liberals’ and Conservatives’ Moral Reasoning Processes: Evidence from South Korea</h3>
-          <div class="research-meta">with Yaeri Kim and Eun-Ju Lee · Journal of Business Ethics</div>
+          <div class="research-meta">with Yaeri Kim and Eun-Ju Lee · <span class="journal-name">Journal of Business Ethics</span></div>
           <div class="paper-links"><a href="https://doi.org/10.1007/s10551-021-04734-2" target="_blank" rel="noopener">DOI ↗</a></div>
         </div>
         <span class="status published">Published</span>
@@ -84,7 +84,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div class="research-year">JMR</div>
         <div>
           <h3 class="research-title">Neural Brand Homophily</h3>
-          <div class="research-meta">with Shiri Melumad, Feng Sheng, and Michael Platt · invited for 4th round review at Journal of Marketing Research</div>
+          <div class="research-meta">with Shiri Melumad, Feng Sheng, and Michael Platt · invited for 4th round review at <span class="journal-name">Journal of Marketing Research</span></div>
           <div class="paper-links">
             <a class="media-link" href="https://www.theatlantic.com/culture/archive/2025/07/grocery-store-fans/683490/?gift=ns1O5T3se_p9XWOp5KNkzWOwUwspdVeZXUpnvebirWk&utm_source=copy-link&utm_medium=social&utm_campaign=share" target="_blank" rel="noopener">The Atlantic coverage ↗</a>
             <a class="media-link" href="https://www.youtube.com/watch?v=4eIDBV4Mpek&ab_channel=BigThink" target="_blank" rel="noopener">Big Think ↗</a>
@@ -95,7 +95,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
 
       <article class="research-item">
         <div class="research-year">JMR</div>
-        <div><h3 class="research-title">Quantifying TV Context-Advertising Congruence</h3><div class="research-meta">with Xiangyu Jiang and Michael Platt · invited for 3rd round review at Journal of Marketing Research</div><div class="paper-links"><a href="https://ssrn.com/abstract=5221339" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <div><h3 class="research-title">Quantifying TV Context-Advertising Congruence</h3><div class="research-meta">with Xiangyu Jiang and Michael Platt · invited for 3rd round review at <span class="journal-name">Journal of Marketing Research</span></div><div class="paper-links"><a href="https://ssrn.com/abstract=5221339" target="_blank" rel="noopener">SSRN ↗</a></div></div>
         <span class="status">Revision</span>
       </article>
 
