@@ -59,14 +59,3 @@ description: "Teaching by Jin Ho Yun at New Mexico State University."
   </div>
 </section>
 
-<section class="section section-soft">
-  <div class="shell reveal">
-    <p class="section-kicker">In the classroom</p>
-    <h2 class="section-title">Three things I want students to practice.</h2>
-    <div class="teaching-pillars">
-      <div class="pillar"><span class="pillar-num">01</span><h3>Ask sharper questions</h3><p>Good analysis starts before the data. Students learn to distinguish an interesting problem from a testable one.</p></div>
-      <div class="pillar"><span class="pillar-num">02</span><h3>Use evidence well</h3><p>Concepts become more useful when students can connect them to observations, experiments, data, and actual consumer behavior.</p></div>
-      <div class="pillar"><span class="pillar-num">03</span><h3>Make it actionable</h3><p>The final step is translating an insight into a decision: what should a manager, researcher, or organization do differently?</p></div>
-    </div>
-  </div>
-</section>
