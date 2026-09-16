@@ -54,8 +54,15 @@ description: "Teaching by Jin Ho Yun at New Mexico State University."
           <blockquote>“Dr. Yun had a great way of encouraging students to talk and share opinions in class. He also used real-world examples in the lectures, which helped me see that what we cover is prevalent in real life.”</blockquote>
           <figcaption>Anonymous student · MKTG 311V</figcaption>
         </figure>
+        <figure class="feedback-card">
+          <blockquote>“Phenomenal professor, incredibly fair, and a genuinely good person who wants to see his students succeed.”</blockquote>
+          <figcaption>Anonymous student · MKTG 311V</figcaption>
+        </figure>
+        <figure class="feedback-card">
+          <blockquote>“PowerPoints were extremely engaging and video examples were a good way of keeping people interested. I also enjoyed the discussion parts of the class as it allowed people to share ideas learned in class.”</blockquote>
+          <figcaption>Anonymous student · MKTG 311V</figcaption>
+        </figure>
       </div>
     </div>
   </div>
 </section>
-
