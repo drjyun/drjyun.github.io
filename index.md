@@ -40,7 +40,7 @@ description: "Jin Ho Yun — marketing professor and researcher studying consume
     <div class="about-label">About</div>
     <div class="about-copy">
       <p>I am an <strong>Assistant Professor of Marketing at New Mexico State University</strong> and a visiting fellow at the Wharton Neuroscience Initiative at the University of Pennsylvania. I currently serve on the editorial board of the <strong>Asia Marketing Journal</strong>.</p>
-      <p>My research sits at the intersection of <strong>consumer psychology, branding, advertising, artificial intelligence, and neuroscience</strong>. I combine lab and field experiments with deep learning, neuroimaging, natural language processing, econometrics, and computational modeling to study how people respond to brands and new technologies.</p>
+      <p>My research sits at the intersection of <strong>consumer psychology, branding, advertising, artificial intelligence, and neuroscience</strong>. I combine lab and field experiments with deep learning, neuroimaging, natural language processing, econometrics, and computational modeling to study how people respond to marketing stimuli (e.g. brands and commercials) and new technologies.</p>
       <p>My work has appeared in <strong>PNAS Nexus, Journal of the Association for Consumer Research, PLOS ONE, Journal of Business Ethics, Psychology &amp; Marketing,</strong> and <strong>Journal of Business Research</strong>. Some of my work has been covered in <strong>The Wall Street Journal</strong> and <strong>The Conversation</strong>.</p>
       <p>I received my Ph.D. from Sungkyunkwan University in Seoul and completed postdoctoral training at the Wharton School.</p>
       <div class="link-row">
