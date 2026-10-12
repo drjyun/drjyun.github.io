@@ -101,7 +101,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
 
       <article class="research-item">
         <div class="research-year">IJRM</div>
-        <div><h3 class="research-title">How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights from a Many-Analyst Study</h3><div class="research-meta">with approximately 200 coauthors · working paper</div><div class="paper-links"><a href="https://osf.io/preprints/psyarxiv/fs3k2_v2" target="_blank" rel="noopener">OSF ↗</a></div></div>
+        <div><h3 class="research-title">How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights from a Many-Analyst Study</h3><div class="research-meta">with approximately 200 coauthors · under review at <span class="journal-name">International Journal of Research in Marketing</span></div><div class="paper-links"><a href="https://osf.io/preprints/psyarxiv/fs3k2_v2" target="_blank" rel="noopener">OSF ↗</a></div></div>
         <span class="status">Under review</span>
       </article>
 
