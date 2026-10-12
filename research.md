@@ -28,8 +28,8 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
       <article class="research-item">
         <div class="research-year">2026</div>
         <div>
-          <h3 class="research-title">A Behavioral and Neural Account of Brand Choice</h3>
-          <div class="research-meta">with Michael Platt · <span class="journal-name">Journal of the Association for Consumer Research</span></div>
+          <h3 class="research-title">When Brands Come to Mind: A Behavioral and Neural Account of Brand Prototypes and Choice</h3>
+          <div class="research-meta">with Feng Sheng and Michael Platt · <span class="journal-name">Journal of the Association for Consumer Research</span></div>
           <div class="paper-links"><a href="https://ssrn.com/abstract=5284379" target="_blank" rel="noopener">SSRN ↗</a></div>
         </div>
         <span class="status accepted">Conditionally accepted</span>
@@ -105,15 +105,21 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <span class="status">Working paper</span>
       </article>
 
-      <article class="research-item">
+            <article class="research-item">
         <div class="research-year">WP</div>
-        <div><h3 class="research-title">Buying into Social Trading: The Effects of Social Contagion on Financial Decision-Making</h3><div class="research-meta">with Annamarie Huttunen and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <div><h3 class="research-title">Leveraging AI to Evaluate Commercial Success: Application to TV vs. Digital Ads</h3><div class="research-meta">with Robert Meyer, Xiangyu Jiang, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=5464434" target="_blank" rel="noopener">SSRN ↗</a></div></div>
         <span class="status">Working paper</span>
       </article>
 
       <article class="research-item">
         <div class="research-year">WP</div>
-        <div><h3 class="research-title">Leveraging AI to Evaluate Commercial Success: Application to TV vs. Digital Ads</h3><div class="research-meta">with Robert Meyer, Xiangyu Jiang, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=5464434" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <div><h3 class="research-title">Live Social Interaction Shapes Own-Action and State Representations in Temporal Cortex</h3><div class="research-meta">with Yiting Chen, Pooya Laamerad, Annamarie Huttunen and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <span class="status">Working paper</span>
+      </article>
+      
+      <article class="research-item">
+        <div class="research-year">WP</div>
+        <div><h3 class="research-title">Buying into Social Trading: The Effects of Live Social Interaction on Financial Decision-Making</h3><div class="research-meta">with Sohvi Heaton, Annamarie Huttunen and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
         <span class="status">Working paper</span>
       </article>
 
