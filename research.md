@@ -102,7 +102,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
       <article class="research-item">
         <div class="research-year">IJRM</div>
         <div><h3 class="research-title">How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights from a Many-Analyst Study</h3><div class="research-meta">with approximately 200 coauthors · working paper</div><div class="paper-links"><a href="https://osf.io/preprints/psyarxiv/fs3k2_v2" target="_blank" rel="noopener">OSF ↗</a></div></div>
-        <span class="status">Working paper</span>
+        <span class="status">Under reviewr</span>
       </article>
 
             <article class="research-item">
@@ -113,7 +113,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
 
       <article class="research-item">
         <div class="research-year">WP</div>
-        <div><h3 class="research-title">Live Social Interaction Shapes Own-Action and State Representations in Temporal Cortex</h3><div class="research-meta">with Yiting Chen, Pooya Laamerad, Annamarie Huttunen and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <div><h3 class="research-title">Live Social Interaction Shapes Own-Action and State Representations in Temporal Cortex</h3><div class="research-meta">with Yiting Chen, Pooya Laamerad, Annamarie Huttunen and Michael Platt</div>
         <span class="status">Working paper</span>
       </article>
       
