@@ -119,7 +119,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
       
       <article class="research-item">
         <div class="research-year">WP</div>
-        <div><h3 class="research-title">Buying into Social Trading: The Effects of Live Social Interaction on Financial Decision-Making</h3><div class="research-meta">with Sohvi Heaton, Annamarie Huttunen, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <div><h3 class="research-title">Buying into Social Trading: Social Responsiveness and Trading Choice During Live Interaction</h3><div class="research-meta">with Sohvi Heaton, Annamarie Huttunen, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
         <span class="status">Working paper</span>
       </article>
 
