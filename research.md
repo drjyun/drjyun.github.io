@@ -101,13 +101,25 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
 
       <article class="research-item">
         <div class="research-year">IJRM</div>
-        <div><h3 class="research-title">How Researchers’ Analytical Decisions Impact Brand Price Elasticity Estimates: Insights from a Many-Analyst Study</h3><div class="research-meta">with approximately 200 coauthors · major revision at <span class="journal-name">International Journal of Research in Marketing</span></div><div class="paper-links"><a href="https://osf.io/preprints/psyarxiv/fs3k2_v2" target="_blank" rel="noopener">OSF ↗</a></div></div>
+        <div><h3 class="research-title">Meta-Scientific Research in Marketing: Brand Price Elasticity</h3><div class="research-meta">with Koen Pauwels, Karin Teichmann, Oliver Kill, Hannes Datta, Harald van Heerde, and other coauthors (approximately 250 authors total) · invited for 2nd-round review at <span class="journal-name">International Journal of Research in Marketing</span></div><div class="paper-links"><a href="https://osf.io/preprints/psyarxiv/fs3k2_v2" target="_blank" rel="noopener">OSF ↗</a></div></div>
         <span class="status">Revision</span>
       </article>
 
       <article class="research-item">
+        <div class="research-year">JNPE</div>
+        <div><h3 class="research-title">Buying into Social Trading: Social Responsiveness and Trading Choice During Live Interaction</h3><div class="research-meta">with Sohvi Heaton, Annamarie Huttunen, and Michael Platt · under review at <span class="journal-name">Journal of Neuroscience, Psychology, and Economics</span></div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <span class="status">Under review</span>
+      </article>
+
+      <article class="research-item">
         <div class="research-year">WP</div>
-        <div><h3 class="research-title">Leveraging AI to Evaluate Commercial Success: Application to TV vs. Digital Ads</h3><div class="research-meta">with Robert Meyer, Xiangyu Jiang, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=5464434" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <div><h3 class="research-title">Leveraging Fusion AI to Evaluate Commercial Success</h3><div class="research-meta">with Robert Meyer, Xiangyu Jiang, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=5464434" target="_blank" rel="noopener">SSRN ↗</a></div></div>
+        <span class="status">Working paper</span>
+      </article>
+
+      <article class="research-item">
+        <div class="research-year">WP</div>
+        <div><h3 class="research-title">Interpretable Visual Complexity and Neural Transfer Functions for Understanding Consumer Valuation</h3><div class="research-meta">with Sohvi Heaton, Dino Levy, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=6136327" target="_blank" rel="noopener">SSRN ↗</a></div></div>
         <span class="status">Working paper</span>
       </article>
 
@@ -116,17 +128,32 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div><h3 class="research-title">Live Social Interaction Shapes Own-Action and State Representations in Temporal Cortex</h3><div class="research-meta">with Yiting Chen, Pooya Laamerad, Annamarie Huttunen, and Michael Platt</div></div>
         <span class="status">Working paper</span>
       </article>
-      
+
       <article class="research-item">
-        <div class="research-year">WP</div>
-        <div><h3 class="research-title">Buying into Social Trading: Social Responsiveness and Trading Choice During Live Interaction</h3><div class="research-meta">with Sohvi Heaton, Annamarie Huttunen, and Michael Platt</div><div class="paper-links"><a href="https://ssrn.com/abstract=7139633" target="_blank" rel="noopener">SSRN ↗</a></div></div>
-        <span class="status">Working paper</span>
+        <div class="research-year">WIP</div>
+        <div>
+          <h3 class="research-title">Readability and Care Language in Recursive AI Writing</h3>
+          <div class="research-meta">with Ilyung Cheong</div>
+        </div>
+        <span class="status">Data collection</span>
       </article>
 
       <article class="research-item">
-        <div class="research-year">WP</div>
-        <div><h3 class="research-title">Interpretable Visual Complexity and Neural Transfer Functions for Understanding Consumer Value</h3><div class="research-meta">with Sohvi Heaton, Dino Levy, and Michael Platt</div></div>
-        <span class="status">Working paper</span>
+        <div class="research-year">WIP</div>
+        <div>
+          <h3 class="research-title">The Effects of AI Summaries on Subsequent Knowledge Seeking</h3>
+          <div class="research-meta">with Shiri Melumad and Robert Meyer</div>
+        </div>
+        <span class="status">Data collection</span>
+      </article>
+
+      <article class="research-item">
+        <div class="research-year">WIP</div>
+        <div>
+          <h3 class="research-title">Exploring the Green Gap: A Meta-Scientific Research in Marketing</h3>
+          <div class="research-meta">with Karin Teichmann, Oliver Kill, Jenny van Doorn, and other coauthors</div>
+        </div>
+        <span class="status">Data analysis</span>
       </article>
     </div>
   </div>
