@@ -77,7 +77,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
   <div class="shell group-heading reveal">
     <div>
       <h2>Revisions &amp; working papers</h2>
-      <p>Current projects and manuscripts.</p>
+      <p>Current manuscripts.</p>
     </div>
     <div class="group-content research-list">
       <article class="research-item">
@@ -128,9 +128,19 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
         <div><h3 class="research-title">Live Social Interaction Shapes Own-Action and State Representations in Temporal Cortex</h3><div class="research-meta">with Yiting Chen, Pooya Laamerad, Annamarie Huttunen, and Michael Platt</div></div>
         <span class="status">Working paper</span>
       </article>
+    </div>
+  </div>
+</section>
 
+<section class="section" id="research-in-progress" aria-labelledby="research-in-progress-heading">
+  <div class="shell group-heading reveal">
+    <div>
+      <h2 id="research-in-progress-heading">Research in progress</h2>
+      <p>Projects in data collection or analysis.</p>
+    </div>
+    <div class="group-content research-list">
       <article class="research-item">
-        <div class="research-year">WIP</div>
+        <div class="research-year" aria-hidden="true"></div>
         <div>
           <h3 class="research-title">Readability and Care Language in Recursive AI Writing</h3>
           <div class="research-meta">with Ilyung Cheong</div>
@@ -139,7 +149,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
       </article>
 
       <article class="research-item">
-        <div class="research-year">WIP</div>
+        <div class="research-year" aria-hidden="true"></div>
         <div>
           <h3 class="research-title">The Effects of AI Summaries on Subsequent Knowledge Seeking</h3>
           <div class="research-meta">with Shiri Melumad and Robert Meyer</div>
@@ -148,7 +158,7 @@ description: "Research by Jin Ho Yun on consumer behavior, advertising, AI, bran
       </article>
 
       <article class="research-item">
-        <div class="research-year">WIP</div>
+        <div class="research-year" aria-hidden="true"></div>
         <div>
           <h3 class="research-title">Exploring the Green Gap: A Meta-Scientific Research in Marketing</h3>
           <div class="research-meta">with Karin Teichmann, Oliver Kill, Jenny van Doorn, and other coauthors</div>
